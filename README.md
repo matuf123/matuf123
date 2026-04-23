@@ -3,8 +3,7 @@
 <p align="center">
   <img src="https://github.com/matuf123/matuf123/raw/main/glx.gif" width="500%" height="1000%">
 </p>
-  
-  <br> <div style="line-height: 0; margin: 0; padding: 0;">
+<div style="display: flex; flex-direction: column; align-items: center; gap: 0; line-height: 0;">
 
   <img src="https://github.com/matuf123/matuf123/blob/main/2026-04-24-040646.gif" width="100%" />
 
