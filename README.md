@@ -2,11 +2,9 @@
   <img src="https://github.com/matuf123/matuf123/blob/main/IMG-20260423-WA0016.jpg" width="100%" />
 </p>
 
-<h1 align="center">🌌 Mtf  🌌</h1>
+<h1 align="center">i'm Ilham ma'tuf muzzaky </h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Halo+Saya+Media+Info;Belajar+Web+Developer;Backend+%26+Database" />
-</p>
+
 
 ---
 
