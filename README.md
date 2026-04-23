@@ -1,6 +1,6 @@
 <p align="center">
-  <img src="https://github.com/matuf123/matuf123/blob/main/glx.gif" width=10%"/>
-</p>
+  <img src="https://github.com/matuf123/matuf123/blob/main/glx.gif" width=10%">
+</p
 
 <p align="center">
   <img height="2500em" src="https://github-readme-stats.vercel.app/api?username=ilham-muzaky&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
