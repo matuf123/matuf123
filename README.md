@@ -2,8 +2,7 @@
 
 <p align="center">
   <img src="https://github.com/matuf123/matuf123/raw/main/glx.gif" width="500%" height="1000%">
-</p
-<p><i>"Dalam heningnya malam, logika melahirkan ide yang mendalam."</i></p>
+</p>
   
   <br> <div style="line-height: 0; margin: 0; padding: 0;">
 
