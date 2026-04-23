@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img height="250em" src="https://github-readme-stats.vercel.app/api?username=ilham-muzaky&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="2500em" src="https://github-readme-stats.vercel.app/api?username=ilham-muzaky&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </p>
 ---
 Hubungi saya jika mampu
