@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/matuf123/matuf123/main/download.jpeg" />
+  <img src="https://raw.githubusercontent.com/matuf123/matuf123/main/download.jpeg" width="100%" />
 </p>
 
 <h1 align="center">🌌 Mtf  🌌</h1>
