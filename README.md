@@ -1,15 +1,6 @@
 <p align="center">
   <img src="https://github.com/matuf123/matuf123/blob/main/glx.gif" width=100%"/>
 </p>
-
-### 💫 About Me
-"Solving problems one line of code at a time."
-
-- 🔭 I’m currently working on **Awesome Projects**
-- 🌱 I’m currently learning **Advanced Web Development**
-- 💬 Ask me about **Front-end or Design**
-- ⚡ Fun fact: **Code and Coffee are my best friends**
-
 ---
 
 ### 🛠️ Tech Stack & Tools
