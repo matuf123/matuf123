@@ -2,9 +2,10 @@
   <img src="https://github.com/matuf123/matuf123/raw/main/glx.gif" width="500%" height="1000%">
 </p
 
-<p align="center">
-  <img width="100%" height="200%" src="https://github-readme-stats.vercel.app/api?username=ilham-muzaky&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-</p>
+<p><i>"Dalam heningnya malam, logika melahirkan ide yang mendalam."</i></p>
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" width="100%"/>
+</div>
 ---
 Hubungi saya jika mampu
 <p align="left">
