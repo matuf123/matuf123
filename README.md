@@ -1,5 +1,5 @@
 <p align="center">
-  <img src=" width="https://github.com/matuf123/matuf123/blob/main/glx.gif"100%" />
+  <img src="https://github.com/matuf123/matuf123/blob/main/glx.gif" width=100%"/>
 </p>
 
 ### 💫 About Me
