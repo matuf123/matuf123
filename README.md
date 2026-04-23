@@ -10,8 +10,9 @@
 </div>
 </div>
 ---
-Hubungi saya jika mampu
+
 <div align="center">
+  <h1>Hubungi saya jika mampu</h1>
   <a href="https://wa.me/08818564804" target="blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
