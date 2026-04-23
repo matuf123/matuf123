@@ -1,10 +1,12 @@
 <p align="center">
   <img src="https://github.com/matuf123/matuf123/raw/main/glx.gif" width="500%" height="1000%">
 </p
-
 <p><i>"Dalam heningnya malam, logika melahirkan ide yang mendalam."</i></p>
+  
+  <br>
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,2,30&height=200&section=header&text=✨&fontSize=50&animation=fadeIn&fontAlignY=40" width="100%" />
+
 </div>
 ---
 Hubungi saya jika mampu
