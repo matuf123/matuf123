@@ -1,12 +1,12 @@
 <p align="center">
   <img src="https://github.com/matuf123/matuf123/blob/main/glx.gif" width=100%"/>
 </p>
-### 📊 GitHub Stats
+
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ilham-muzaky&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="100em" src="https://github-readme-stats.vercel.app/api?username=ilham-muzaky&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </p>
 ---
-### 📫 Connect with me
+Hubungi saya jika mampu
 <p align="left">
 <a href="mailto:emailanda@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://linkedin.com/in/ilham-muzaky" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
