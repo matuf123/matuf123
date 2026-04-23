@@ -5,7 +5,7 @@
   
   <br>
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,2,30&height=200&section=header&text=✨&fontSize=50&animation=fadeIn&fontAlignY=40" width="100%" />
+  <img src="https://github.com/matuf123/matuf123/blob/main/2026-04-24-040646.gif" width="100%" />
 
 </div>
 ---
