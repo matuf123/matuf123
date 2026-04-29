@@ -1,7 +1,7 @@
 <h1 align="center" style="color:#00ffff;">Hi 👋, I'm Media Info</h1>
 
 <p align="center">
-  <img src="assets/foto.jpg" width="180" style="
+  <img src="https://github.com/matuf123/matuf123/blob/main/2026-04-24-040646.gif" width="180" style="
     border-radius: 50%;
     border: 4px solid #00ffff;
     box-shadow: 0 0 30px rgba(0,255,255,0.8);
