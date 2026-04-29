@@ -1,9 +1,9 @@
 
 <p align="center">
   <img src="glx.gif" width="100%" style="
-    border-radius: 100%;
-    border: 49px solid #00ffff;
-    box-shadow: 10 10 30px rgba(0,255,255,0.8);
+    border-radius: 1%;
+    border: 0px solid #00ffff;
+    box-shadow: 0 0px rgba(0,255,255,0.8);
   ">
 </p>
 
