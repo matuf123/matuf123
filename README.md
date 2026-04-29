@@ -1,4 +1,4 @@
-<h1 align="center" style="color:#00ffff;">Hi 👋, I'm Media Info</h1>
+
 
 <p align="center">
   <img src="https://github.com/matuf123/matuf123/blob/main/2026-04-24-040646.gif" width="180" style="
