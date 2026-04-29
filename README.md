@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img src="matuf123/VID_20260430034004.gif" width="180" style="
+  <img src="matuf123/README.md/VID_20260430034004.gif" width="180" style="
     border-radius: 50%;
     border: 4px solid #00ffff;
     box-shadow: 0 0 30px rgba(0,255,255,0.8);
