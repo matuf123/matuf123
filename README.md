@@ -1,17 +1,9 @@
 
 <p align="center">
   <img src="glx.gif" width="100%" style="
-    border-radius: 50%;
-    border: 4px solid #00ffff;
-    box-shadow: 0 0 30px rgba(0,255,255,0.8);
-  ">
-</p>
-
-<p align="center">
-  <img src="VID_20260430034004.gif" width="100%" height="10%" style="
-    border-radius: 50%;
-    border: 4px solid #00ffff;
-    box-shadow: 0 0 30px rgba(0,255,255,0.8);
+    border-radius: 100%;
+    border: 49px solid #00ffff;
+    box-shadow: 10 10 30px rgba(0,255,255,0.8);
   ">
 </p>
 
