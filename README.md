@@ -1,16 +1,46 @@
-## Hi there 👋
+<h1 align="center" style="color:#00ffff;">Hi 👋, I'm Media Info</h1>
 
-<!--
-**matuf123/matuf123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="assets/foto.jpg" width="180" style="
+    border-radius: 50%;
+    border: 4px solid #00ffff;
+    box-shadow: 0 0 30px rgba(0,255,255,0.8);
+  ">
+</p>
 
-Here are some ideas to get you started:
+<p align="center" style="color:#cccccc;">
+  🚀 Web Developer | UI Designer | Tech Enthusiast
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FFFF&center=true&vCenter=true&lines=Welcome+to+my+GitHub!;I+love+coding+🔥;Let's+build+something+cool">
+</p>
+
+---
+
+<h2 style="color:#00ffff;">🎯 About Me</h2>
+
+<ul style="color:#dddddd;">
+  <li>🔥 Passion di dunia coding</li>
+  <li>💻 Fokus Web Development</li>
+  <li>🎨 Suka UI estetik</li>
+  <li>🚀 Target jadi Fullstack Developer</li>
+</ul>
+
+---
+
+<h2 style="color:#00ffff;">🛠️ Tech Stack</h2>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,php,mysql,git" />
+</p>
+
+---
+
+<h2 style="color:#00ffff;">📊 GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_KAMU&show_icons=true&theme=tokyonight&hide_border=true" width="400"/>
+</p>
